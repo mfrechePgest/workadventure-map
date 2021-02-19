@@ -91,11 +91,6 @@
                  "name":"openWebSite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/SkgTxQm9DWM"
-                }, 
-                {
-                 "name":"openWebSiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
