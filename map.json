@@ -1638,12 +1638,30 @@
          "source":"codingame.tsx"
         }, 
         {
+         "columns":1,
          "firstgid":1650,
-         "source":"pharmagest.tsx"
+         "image":"pharmagest.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"pharmagest",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":6,
          "firstgid":1651,
-         "source":"pharmagest192.tsx"
+         "image":"pharmagest192.png",
+         "imageheight":192,
+         "imagewidth":192,
+         "margin":0,
+         "name":"pharmagest192",
+         "spacing":0,
+         "tilecount":36,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
