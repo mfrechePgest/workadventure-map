@@ -1683,6 +1683,19 @@
          "tilecount":36,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":3,
+         "firstgid":1687,
+         "image":"pharmagest96.png",
+         "imageheight":96,
+         "imagewidth":96,
+         "margin":0,
+         "name":"pharmagest96",
+         "spacing":0,
+         "tilecount":9,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
